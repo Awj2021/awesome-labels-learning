@@ -18,7 +18,9 @@ The papers of Noisy Labels.
 + [Enhanced Meta Label Correction for Coping with Label Corruption](https://openaccess.thecvf.com/content/ICCV2023/papers/Taraday_Enhanced_Meta_Label_Correction_for_Coping_with_Label_Corruption_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]() 
 + [Sample-wise Label Confidence Incorporation for Learning with Noisy Labels](https://openaccess.thecvf.com/content/ICCV2023/papers/Ahn_Sample-wise_Label_Confidence_Incorporation_for_Learning_with_Noisy_Labels_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]()
 + [Label-Noise Learning with Intrinsically Long-Tailed Data](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]() 
-+ [Semi-Supervised Semantic Segmentation under Label Noise via Diverse Learning Groups](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Semi-Supervised_Semantic_Segmentation_under_Label_Noise_via_Diverse_Learning_Groups_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]()
++ [Semi-Supervised Semantic Segmentation under Label Noise via Diverse Learning Groups](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Semi-Supervised_Semantic_Segmentation_under_Label_Noise_via_Diverse_Learning_Groups_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]()(
+
+  Other's Repo for Noisy Label Learning. [Advances-in-Label-Noise-Learning](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)
 
 [**_2022_**]
 + [Selective-Supervised Contrastive Learning with Noisy Labels](https://arxiv.org/pdf/2203.04181.pdf) [**CVPR2022**][[**code**]](https://github.com/ShikunLi/Sel-CL)
