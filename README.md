@@ -8,8 +8,9 @@ The papers of multi-label learning
 + [BoMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_BoMD_Bag_of_Multi-label_Descriptors_for_Noisy_Chest_X-ray_Classification_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]()
 + [Multi-label Affordance Mapping from Egocentric Vision](https://openaccess.thecvf.com/content/ICCV2023/papers/Mur-Labadia_Multi-label_Affordance_Mapping_from_Egocentric_Vision_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]() 
 + [Scene-Aware Label Graph Learning for Multi-Label Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Scene-Aware_Label_Graph_Learning_for_Multi-Label_Image_Classification_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]()
-+ [Multi-Label Knowledge Distillation](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Multi-Label_Knowledge_Distillation_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]() 
++ [Multi-Label Knowledge Distillation](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Multi-Label_Knowledge_Distillation_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]()
 + [Affine-Consistent Transformer for Multi-Class Cell Nuclei Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Affine-Consistent_Transformer_for_Multi-Class_Cell_Nuclei_Detection_ICCV_2023_paper.pdf) [**ICCV2023**][[**code**]]() 
++ [Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification](https://arxiv.org/pdf/2401.01181.pdf) [**Arxiv**][[**code**]]()
 
 # Noisy Labels Learning
 The papers of Noisy Labels.
